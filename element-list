@@ -1,0 +1,24 @@
+unnamed package
+client
+client.connection
+client.message
+client.mvc.controller
+client.mvc.model
+client.mvc.view
+client.mvc.view.game
+client.mvc.view.menu
+client.testing
+common
+info
+presentation.message
+presentation.message.request
+presentation.message.server_to_client_msg
+presentation.message.server_to_client_msg.notification
+presentation.message.server_to_client_msg.response
+presentation.serialize_deserialize
+server
+server.connection
+server.model
+server.request
+testSystem
+utils
